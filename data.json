@@ -51,5 +51,39 @@
   "seed": 2805325587,
   "generatedAt": "2026-01-24T21:50:15.999Z",
   "demoUrl": "https://websouffle.github.io/vossaert-g-2026/",
-  "prospectId": "1f127933-7dad-6772-af79-c955f449036f"
+  "prospectId": "1f127933-7dad-6772-af79-c955f449036f",
+  "lastMailTemplate": "demo_website",
+  "lastMailStatus": "sent",
+  "lastMailSentAt": "2026-03-24T15:07:50+00:00",
+  "mailHistory": [
+    {
+      "template": "demo_website",
+      "status": "sent",
+      "sentAt": "2026-03-24T15:07:50+00:00",
+      "toEmail": "germain_vossaert@hotmail.com",
+      "providerMessageId": "<202603241507.79778141185@smtp-relay.mailin.fr>",
+      "error": null,
+      "payloadHash": "85e093d0be23d6b72adc13797b65f0fd0bad19e95ec62ba724f62fc736f8bb23",
+      "payload": {
+        "sender": {
+          "name": "Websoufflé",
+          "email": "hello@websouffle.com"
+        },
+        "to": [
+          {
+            "email": "germain_vossaert@hotmail.com",
+            "name": "Vossaert G"
+          }
+        ],
+        "bcc": [
+          {
+            "email": "hello@websouffle.com"
+          }
+        ],
+        "subject": "Een websiteconcept voor Vossaert G",
+        "textContent": "Hoi Vossaert,\n\nIk vond de gegevens van Vossaert G via de Gouden Gids en merkte op dat jullie als Dakwerkers in Kortrijk nog geen eigen website hebben. Ik heb vrijblijvend een eerste concept uitgewerkt — misschien is het iets voor jullie.\n\nhttps://websouffle.github.io/vossaert-g-2026/\n\nVolledig gratis ontwerp, nergens aan verbonden.\n\nVoel je vrij om te antwoorden als je interesse hebt — ik hoor het graag.\n\n---\nKengy Van Hijfte\nWebsoufflé\nhello@websouffle.com | +32476607441\nwebsouffle.com",
+        "htmlContent": "<!doctype html>\n<html lang=\"nl\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"color-scheme\" content=\"light\">\n  <meta name=\"supported-color-schemes\" content=\"light\">\n  <title>Een websiteconcept voor Vossaert G</title>\n  <style>\n    :root { color-scheme: light; supported-color-schemes: light; }\n    body, table, td, a { -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }\n    table, td { mso-table-lspace:0pt; mso-table-rspace:0pt; }\n    img { -ms-interpolation-mode:bicubic; border:0; outline:none; text-decoration:none; }\n    @media (max-width:600px) {\n      .email-card { margin:16px !important; border-radius:12px !important; }\n      .card-inner { padding:28px 24px !important; }\n      .cta-btn { padding:14px 28px !important; font-size:15px !important; }\n    }\n  </style>\n</head>\n<body style=\"margin:0; padding:0; background-color:#f1f5f9; font-family:Arial,Helvetica,sans-serif; -webkit-font-smoothing:antialiased;\">\n  <!--[if mso]><table role=\"presentation\" width=\"600\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td><![endif]-->\n  <div style=\"max-width:600px; margin:0 auto;\">\n    <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n      <!-- Spacer top -->\n      <tr><td style=\"height:40px; font-size:0; line-height:0;\">&nbsp;</td></tr>\n      <!-- Card -->\n      <tr>\n        <td style=\"padding:0 16px;\">\n          <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" class=\"email-card\" style=\"background-color:#ffffff; border-radius:16px; box-shadow:0 1px 3px rgba(0,0,0,0.06);\">\n            <!-- Greeting + Hook -->\n            <tr>\n              <td class=\"card-inner\" style=\"padding:40px 40px 24px 40px; font-size:16px; line-height:26px; color:#334155;\">\n                <p style=\"margin:0 0 16px 0; font-size:16px; line-height:26px;\">Hoi Vossaert,</p>\n                <p style=\"margin:0; font-size:16px; line-height:26px;\">Ik vond de gegevens van Vossaert G via de Gouden Gids en merkte op dat jullie als Dakwerkers in Kortrijk nog geen eigen website hebben. Ik heb vrijblijvend een eerste concept uitgewerkt — misschien is het iets voor jullie.</p>\n              </td>\n            </tr>\n            <!-- CTA Button -->\n            <tr>\n              <td style=\"padding:8px 40px 24px 40px;\" align=\"center\">\n                <a href=\"https://websouffle.github.io/vossaert-g-2026/\" target=\"_blank\" class=\"cta-btn\" style=\"display:inline-block; background-color:#2563eb; color:#ffffff; text-decoration:none; font-size:16px; font-weight:600; padding:16px 36px; border-radius:10px; mso-padding-alt:0;\">Bekijk je websiteconcept</a>\n              </td>\n            </tr>\n            <!-- Value prop + Close -->\n            <tr>\n              <td style=\"padding:0 40px 40px 40px; font-size:15px; line-height:24px; color:#475569;\">\n                <p style=\"margin:0 0 12px 0;\">Volledig gratis ontwerp, nergens aan verbonden.</p>\n                <p style=\"margin:0;\">Voel je vrij om te antwoorden als je interesse hebt — ik hoor het graag.</p>\n              </td>\n            </tr>\n            <!-- Signature -->\n            <tr>\n              <td style=\"padding:0 40px 40px 40px; border-top:1px solid #e2e8f0; padding-top:24px;\">\n                <p style=\"margin:0; font-size:14px; line-height:22px; color:#334155; font-weight:600;\">Kengy Van Hijfte</p>\n                <p style=\"margin:2px 0 0 0; font-size:14px; line-height:22px; color:#334155;\">Websoufflé</p>\n                <p style=\"margin:2px 0 0 0; font-size:13px; line-height:20px; color:#64748b;\">\n                  <a href=\"mailto:hello@websouffle.com\" style=\"color:#2563eb; text-decoration:none;\">hello@websouffle.com</a> &middot; +32476607441\n                </p>\n                <p style=\"margin:2px 0 0 0; font-size:13px; line-height:20px;\">\n                  <a href=\"https://websouffle.com\" style=\"color:#2563eb; text-decoration:none;\">websouffle.com</a>\n                </p>\n              </td>\n            </tr>\n          </table>\n        </td>\n      </tr>\n      <!-- Spacer bottom -->\n      <tr><td style=\"height:40px; font-size:0; line-height:0;\">&nbsp;</td></tr>\n    </table>\n  </div>\n  <!--[if mso]></td></tr></table><![endif]-->\n</body>\n</html>"
+      }
+    }
+  ]
 }
