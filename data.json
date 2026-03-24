@@ -1,0 +1,53 @@
+{
+  "name": "Vossaert G",
+  "id1": "Kortrijk",
+  "id2": "L10967243",
+  "slug": "Vossaert+G",
+  "url": "https://www.goudengids.be/bedrijf/Kortrijk/L10967243/Vossaert+G/",
+  "email": "germain_vossaert@hotmail.com",
+  "phone": "+3256200299",
+  "internationalPhone": "+3256200299",
+  "address": "Sint-Amandslaan 11B/31",
+  "postalCode": "8500",
+  "city": "Kortrijk",
+  "vatNumber": "BE0475934458",
+  "foundingDate": "2001-10-20",
+  "employeeCount": "0 of onbekend",
+  "companyStatus": "Actieve dossier",
+  "kboUrl": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?lang=nl&ondernemingsnummer=0475934458",
+  "categories": [
+    "Dakwerkers",
+    "Kortrijk"
+  ],
+  "openingHours": {
+    "monday": "6:00 - 20:00",
+    "tuesday": "Gesloten",
+    "wednesday": "Gesloten",
+    "thursday": "Gesloten",
+    "friday": "Gesloten",
+    "saturday": "6:00 - 20:00",
+    "sunday": "12:00 - 20:00"
+  },
+  "headerImage": "https://adserver.fcrmedia.com/www/images/43086a0c7888beb78a8318d1aaf89a65.png",
+  "galleryImages": [
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/466/062/466062586_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/464/153/464153179_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/228/434228051_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/460/747/460747963_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/229/434229275_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/460/360/460360252_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/457/724/457724344_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/457/725/457725169_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/455/940/455940448_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/145/434145170_coverimage.webp",
+    "https://i.fcrmedia.com/goudengids.be/images/w650/000/434/228/434228011_coverimage.webp"
+  ],
+  "searchKeyword": "dakwerkers",
+  "scrapedAt": "2026-01-20T17:44:50.936Z",
+  "region": "flanders",
+  "preferredLanguage": "dutch",
+  "referenceUrl": "https://www.goudengids.be/bedrijf/Kortrijk/L10967243/Vossaert+G/",
+  "templateId": "D",
+  "seed": 2805325587,
+  "generatedAt": "2026-01-24T21:50:15.999Z"
+}
